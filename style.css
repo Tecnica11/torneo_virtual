@@ -149,7 +149,7 @@ li {
 
 .matrix-container {
     position: relative;
-    width: max-content;
+    width: 56%;
     padding: 5% 20%;
     border: .5vw solid transparent;
     pointer-events: none;
@@ -171,8 +171,11 @@ canvas {
     color: cyan;
     text-shadow: 0 0 5px cyan;
     font-size: 3.6vw;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
     mix-blend-mode: lighten; /* Opcional, resalta la mezcla */
     margin: 0;
+    text-align: center;
 }
 
 .but {
