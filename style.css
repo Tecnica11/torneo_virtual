@@ -145,6 +145,7 @@ li {
     margin: 0;
     padding: 5% 20%;
     border-radius: 10px;
+    text-decoration: none;
 }
 
 .matrix-container {
