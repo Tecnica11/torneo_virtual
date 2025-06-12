@@ -166,7 +166,6 @@ canvas {
 }
 
 .texto {
-    text-decoration:none;
     position: relative;
     z-index: 1;
     color: cyan;
@@ -177,6 +176,8 @@ canvas {
     mix-blend-mode: lighten; /* Opcional, resalta la mezcla */
     margin: 0;
     text-align: center;
+    /* modificaciones */
+    text-decoration: none;
 }
 
 .but {
