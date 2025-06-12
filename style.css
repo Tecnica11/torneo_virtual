@@ -101,7 +101,6 @@ li {
 }
 
 .but .boton {
-    text-decoration:none;
     font-size: 3vw;
     margin-bottom: 1%;
     background: transparent;
@@ -167,6 +166,7 @@ canvas {
 }
 
 .texto {
+    text-decoration:none;
     position: relative;
     z-index: 1;
     color: cyan;
